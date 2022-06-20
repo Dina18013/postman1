@@ -21,6 +21,6 @@ public class TestScenarium {
 // Проверки
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("Это APD автотест?"));
+                .body("data", equalTo("Это API автотест?"));
     }
 }
