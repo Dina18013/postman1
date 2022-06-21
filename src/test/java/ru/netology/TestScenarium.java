@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.equalTo;
 public class TestScenarium {
 
     @Test
-    void shouldDemoTest () {
+    public void shouldDemoTest () {
         // Given - When - Then
 // Предусловия
         given()
